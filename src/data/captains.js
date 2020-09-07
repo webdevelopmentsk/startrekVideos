@@ -1,0 +1,42 @@
+export const captains = [
+
+        {   id: 1,
+            name:  "Jean-Luc Picard",
+            seenIn: "Star Trek: The Next Generation, Star Trek: Generations, Star Trek: Nemesis",
+            gender:  "Male",
+            yearOfBirth:  2305,
+            monthOfBirth:  7,
+            dayOfBirth:  13,
+            placeOfBirth:  "La Barre, France, Earth",
+            maritalStatus:  "Single",
+            serialNumber:  "SP-937-215",
+            text: "Picard would be an awe-inspiring boss in every sense. You’d learn a lot working with him, even if you never felt like you truly knew him.",
+            image: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/02/11/194139877_Patrick-Stewart_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d"
+        },
+        {   id: 2,
+            name:  "Kathryn Janeway",
+            seenIn: "Star Trek: Voyager",
+            gender:  "Female",
+            yearOfBirth:  2305,
+            monthOfBirth:  7,
+            dayOfBirth:  13,
+            placeOfBirth:  "La Barre, France, Earth",
+            maritalStatus:  "Single",
+            serialNumber:  "SP-937-215",
+            text: "Janeway would be the sort of boss you might have to complain about behind her back, but she’s also the sort of boss you’d end up naming your first child after.",
+            image: "https://pyxis.nymag.com/v1/imgs/773/48f/d89500c96b0cc0386d3ec94ca6d17c8023-1-kate-mulgrew-kathryn-janeway.rhorizontal.w700.jpg"
+        },
+        {   id: 3,
+            name:  "Benjamin Sisko",
+            seenIn: "Star Trek: Deep Space Nine",
+            gender:  "Male",
+            yearOfBirth:  2305,
+            monthOfBirth:  7,
+            dayOfBirth:  13,
+            placeOfBirth:  "La Barre, France, Earth",
+            maritalStatus:  "Single",
+            serialNumber:  "SP-937-215",
+            text: "Chances are that, apart from the occasional curt acknowledgment, you might only talk to him once or twice as he moved from one crisis to another. Still, you’d end up respecting the hell out of Sisko.",
+            image: "https://pyxis.nymag.com/v1/imgs/3b0/b1e/8edfdbe75b8557442c3e175ac5cfbf4d53-4-benjamin-sisko-avery-brooks.rhorizontal.w700.jpg"
+        }
+];
