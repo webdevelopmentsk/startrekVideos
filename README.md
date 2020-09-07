@@ -1,3 +1,8 @@
+# Star Trek Related Videos 
+![Image of Yaktocat](https://github.com/webdevelopmentsk/startrekVideos/blob/master/img/app.png?raw=true)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
